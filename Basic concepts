@@ -1,0 +1,9 @@
+* An interactive application.
+* Commercial engine - Unity/ Unreal.
+* Platform to build video games, but doesn't have to be a game, can use VR/AR too.
+* Goal to transform data, from one format to another.
+* Interacts with data. 
+* Files are read, we create assets and read them. Usually custom-made for the Game Engine.
+* Users interact with this.
+* Should run on all platforms.
+* Other things like rendering, file output, etc.
