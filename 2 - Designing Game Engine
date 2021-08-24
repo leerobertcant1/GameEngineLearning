@@ -1,0 +1,13 @@
+* Not easy, convenient to use a ready built one.
+* Entry point - what happens? what does the main function do? who controls it?
+* Application layer - Deals with app lifecycle and events. Rendering frames, etc.
+* Window layer - Inputs and events, propogating code.
+* Renderer - What renders graphics.
+* Render API abstraction - multiple, just OpenGL to start with.
+* Debugging support - Scaffolding.
+* Scripting - LUA/ C#.
+* Memory - Allocation for it around performance.
+* Entity-component system (ECS) - Game objects and modularise them.
+* Physics solution.
+* File I/O and Virtual File System.
+* Build System - 3D model optimiser.
