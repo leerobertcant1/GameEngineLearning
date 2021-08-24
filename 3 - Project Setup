@@ -8,4 +8,4 @@
 * (VS) Output(Bin) and intermediate(obj) directory change.
 * (VS) If we want to move startup project change inside .SLN file.
 * (VS) New project called Sandbox, for the Game project.
-* (VS) declspec to link from different projects for .DLLs.
+* (VS) __declspec(dllexport) to link from different projects for .DLLs.
