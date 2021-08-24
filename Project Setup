@@ -1,0 +1,11 @@
+* Github.
+* Visual Studio.
+* Linker.
+
+* (VS) Build into DLL as quicker, lots of dependencies. Link into the game one DLL easier.
+* (VS) Don't bother with x86, old now.
+* (VS) Config Type: exe to .DLL.
+* (VS) Output(Bin) and intermediate(obj) directory change.
+* (VS) If we want to move startup project change inside .SLN file.
+* (VS) New project called Sandbox, for the Game project.
+* (VS) declspec to link from different projects for .DLLs.
